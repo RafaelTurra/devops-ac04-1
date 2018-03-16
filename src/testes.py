@@ -1,3 +1,4 @@
+#/bin/python
 import jogovelha
 import sys
 
