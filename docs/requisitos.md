@@ -1,1 +1,3 @@
 # Requisitos
+
+* Gerar uma estrutura
